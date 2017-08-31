@@ -1,5 +1,5 @@
 ﻿# Python_Project
-1.Python加密   [Test.py] (https://github.com/OfficalGM/Python_Project/blob/master/Test.py)
+1.Python加密   Test.py (https://github.com/OfficalGM/Python_Project/blob/master/Test.py)
 
 2.台灣銀行匯率 	Get_Bank.py  
 
