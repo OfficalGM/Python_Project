@@ -16,7 +16,7 @@ class ReFileName:
             for name in files:
                 filename=os.path.join(root,name)
                 file_format=os.path.splitext(name)[1]
-                if file_format=='.jpg' or file_format=='png':
+                if file_format=='.jpg' or file_format=='.png':
                    try:
                         os.rename(filename, filename.replace(name, str(num)+file_format))
                    except Exception as e:
