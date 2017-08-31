@@ -5,3 +5,6 @@
 
 3.Ptt_表特抓圖	Ptt.py  
 
+4.更改照片名稱  Re_IMG_Name.py
+
+5.更改照片名稱V2 Re_IMG_Name2.py
